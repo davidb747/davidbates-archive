@@ -1,8 +1,8 @@
-main:
+umain:
   - title: "Posts"
     url: /posts/
   - title: "DeepCue"
-    url: /deepcie/
+    url: /deepcue/
   - title: "NFL"
     url: /NFL/
   - title: "CV"
