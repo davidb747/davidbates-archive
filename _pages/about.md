@@ -1,8 +1,21 @@
 ---
 permalink: /about/
-title: "About"
+title: "About Me"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Hi, I’m **David Bates** — a Physics graduate from Imperial College London with a passion for **sports analytics**, **machine learning**, and using data to solve real-world problems.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I’ve applied statistical modelling and predictive techniques to sports like **snooker** and **American football**, building tools such as:
+- 🧠 A custom **Elo rating system** to track and predict NFL team performance
+- 🎯 A machine learning model (DeepCue) that forecasts snooker outcomes using historical performance and matchup dynamics
+
+My broader experience includes:
+- 📊 **Data analysis** and **automation** for over 100 clients at Pro-Force Ltd
+- 📁 Building **reporting pipelines** using Python, SQL, and Excel VBA
+- 📉 Exploring large datasets in fields like **climate science**, through my Master’s thesis using satellite data and statistical inference
+
+Right now, I’m working on expanding my portfolio of applied data science projects, especially at the intersection of sports, finance, and technology. This blog is where I post analysis, visualisations, and reflections on those projects.
+
+---
+
+If you're interested in collaborating or just talking sports data, feel free to reach out via [email](mailto:contact@davidbates.me) or [GitHub](https://github.com/davidb747).
