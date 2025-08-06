@@ -17,7 +17,7 @@ title: "David Bates"
 email: "contact@davidbates.me"
 description: "Sports analytics, machine learning and data science projects"
 twitter_username: username
-github_username: "davidb747"
+github_username: davidb747
 minimal_mistakes_skin: default
 search: true
 
@@ -28,7 +28,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/London
 
 include:
   - _pages
@@ -55,34 +55,33 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "David Bates"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Physics graduate focused on sports analytics and machine learning."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/davidb747"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/davidb747"  # update if needed
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:contact@davidbates.me"
+
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
+      url: "https://github.com/davidb747"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://instagram.com/"
+      url: "https://linkedin.com/in/davidb747"  # update if needed
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:contact@davidbates.me"
+
 
 defaults:
   # _posts
@@ -93,7 +92,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: false
       share: true
       related: true
   # _pages
