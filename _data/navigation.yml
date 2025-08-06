@@ -1,10 +1,10 @@
-umain:
+main:
   - title: "Posts"
     url: /posts/
   - title: "DeepCue"
     url: /deepcue/
   - title: "NFL"
-    url: /NFL/
+    url: /nfl/
   - title: "CV"
     url: /CV/
   - title: "About"
