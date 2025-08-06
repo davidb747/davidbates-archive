@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "David Bates"
   avatar : "/assets/images/bio-photo.jpeg"
-  bio    : "Physics graduate focused on sports analytics and machine learning. If you're interested in collaborating or just talking sports data, feel free to reach out via [email](mailto:contact@davidbates.me) or [LinkedIn](https://www.linkedin.com/in/david-bates-1545ab250/).""
+  bio    : "Physics graduate focused on sports analytics and machine learning. If you're interested in collaborating or just talking sports data, feel free to reach out via [email](mailto:contact@davidbates.me) or [LinkedIn](https://www.linkedin.com/in/david-bates-1545ab250/)."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
