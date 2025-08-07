@@ -1,19 +1,33 @@
-/* Reduce base font size */
-body {
-  font-size: 16px;  /* default is ~18px, you can go smaller if needed */
-  line-height: 1.5;
+/* Global base font size */
+html, body {
+  font-size: 15px !important;
+  line-height: 1.6;
 }
 
-/* Reduce headers slightly */
-h1 {
-  font-size: 2rem;
+/* Content area inside single layout */
+.page__content {
+  font-size: 15px !important;
 }
-h2 {
-  font-size: 1.5rem;
+
+/* Headings inside posts/pages */
+.page__content h1 {
+  font-size: 1.8rem !important;
 }
-h3 {
-  font-size: 1.25rem;
+.page__content h2 {
+  font-size: 1.5rem !important;
 }
-h4, h5, h6 {
-  font-size: 1.1rem;
+.page__content h3 {
+  font-size: 1.25rem !important;
+}
+.page__content h4,
+.page__content h5,
+.page__content h6 {
+  font-size: 1.1rem !important;
+}
+
+/* Sidebar bio and contact icons */
+.author__bio,
+.author__content,
+.author__urls {
+  font-size: 0.95rem !important;
 }
