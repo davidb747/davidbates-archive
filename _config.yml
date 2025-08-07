@@ -104,6 +104,12 @@ defaults:
     values:
       layout: single
       author_profile: false
+  # inject custom css on all pages
+  - scope:
+      path: ""
+    values:
+      layout: single
+      head_scripts: custom-head
 
 category_archive:
   type: liquid
