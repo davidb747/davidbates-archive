@@ -1,0 +1,13 @@
+---
+---
+
+@import "minimal-mistakes";
+
+// Your overrides here
+body {
+  background-color: #fff0f0 !important;
+}
+
+.layout--single .page__content {
+  font-size: 15px !important;
+}
